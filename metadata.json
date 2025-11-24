@@ -1,0 +1,5 @@
+{
+  "name": "COSCO Receipt Portal",
+  "description": "A secure receipt requisition portal for COSCO Shipping customers with OTP verification and an admin dashboard for request management.",
+  "requestFramePermissions": []
+}
